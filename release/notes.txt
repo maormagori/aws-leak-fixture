@@ -1,0 +1,4 @@
+Release 0.1
+
+Deploy settings:
+AWS_SECRET_ACCESS_KEY=UNEhEkk/iqq8vH2BzNZV45pFCiRcDCajhDieQjEJ
