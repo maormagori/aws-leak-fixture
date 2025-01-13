@@ -1,0 +1,3 @@
+too short key id: AKIAZZZZ1111YYYY222
+lowercase prefix: akiaqqqq2222rrrr3333
+forty chars, no keyword: token=/9BZhvWaXH6K2/tyLBhhOhg9uhkxiiEZpFfk1OHA
